@@ -6,6 +6,8 @@ Klemens Wisser \
 Fantasiestraße 22 \
 12345 Fantasiestadt
 
+(![Profile Picture](ProfilePic.png))
+
 ## Ausbildung
 
 ### Schulische Ausbildung
